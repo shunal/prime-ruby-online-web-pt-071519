@@ -1,4 +1,4 @@
 # Add  code here!
-def prime_numbers
+def prime?
   
 end
