@@ -1,4 +1,5 @@
 # Add  code here!
 def prime?(integer)
-  start = 0 
+  start = 2 
+  
 end
